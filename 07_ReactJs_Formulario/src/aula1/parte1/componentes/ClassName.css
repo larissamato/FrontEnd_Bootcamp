@@ -1,0 +1,14 @@
+.bloco-lista{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 20px;
+}
+.lista-estilizada {
+    margin-top: 10px;
+    border: 1px solid blueviolet;
+    padding: 25px;
+}
+.item-cor{
+    color:rgb(133, 29, 29)
+}

@@ -1,0 +1,46 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.form-control me-2{
+    padding-left: 50px;
+}
+input, button{
+    padding-left: 50px;
+}
+h5{
+    text-align: justify;
+}
+.navbar {
+    background-color:#153029;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.disabled{
+    padding-right: 300px;
+}
+.quem-somos{
+    color: rgb(56, 55, 55);
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 150px;
+    
+}
+.parceiros{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.produtos{
+    margin-top:70px;
+}
+.margin{   
+    padding-bottom: 20px;    
+    padding-top: 20px;
+}
+.contatos{
+    padding-top:100px;
+}
+.bg-footer{
+    background-color: #153029;
+    color: white;
+}
