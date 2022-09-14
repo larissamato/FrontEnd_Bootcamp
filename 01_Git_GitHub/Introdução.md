@@ -97,6 +97,7 @@ Para resolver os conflitos de merge, que são ocorridos com versões que tem dif
 
 ```linux
 git pull origin master #puxa a versão mais recente
+git pull origin master --allow-unrelated-histories
 ```
 
 Abra o repositório puxado, faça as alterações necessárias e commita ele novamente. Depois disso é só empurrar sua versão mais recente para o GitHub.
